@@ -1,3 +1,3 @@
-# API EVEN CALENDAR 
+# API EVENT CALENDAR 
 
-Api for Calendar APP
+Api for Calendar APP EVENT
